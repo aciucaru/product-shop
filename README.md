@@ -1,7 +1,7 @@
 # product-shop
 A C++ homework project that simulates a product shop.
 
-The command-line programm was made with moder C++ and allows the user to:
+The command-line programm was made with modern C++ and allows the user to:
 - add a product to the shop (like a TV, a washing machine, etc.)
 - delete a product by ID
 - search for a product by ID
